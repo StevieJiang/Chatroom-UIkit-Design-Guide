@@ -1,7 +1,9 @@
 # 直播聊天室人机交互界面工具包设计指南 (Beta)
 Design Guide of Live Stream Chat UIkit(Beta)
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/crukcover.png)
+![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/crukcover_ease.png)
+
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/crukcover_ease.png" width="800" >
 
 ## 0.总的设计原则
 ### 0.1.功能与行为上确保通用、普遍、一般
