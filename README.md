@@ -222,9 +222,9 @@ Neutral Special和Primary的默认Hue值(色相)类似，为近似色，也建�
 也应用于模态显示的弹出层的背景虚化；
 背景模糊的模糊半径值默认为20
 
-`
+```
 /* bg_blur_modal */ backdrop-filter: blur(20);
-`
+```
 
 ### 1.5.2.阴影（Shadow）
 阴影应用于弹窗（Alert）、浮层（pop）、抽屉（Drawer）等，为区分层级，凸显聚焦的组件。
