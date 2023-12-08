@@ -205,7 +205,7 @@ Neutral Special和Primary的默认Hue值(色相)类似，为近似色，也建�
 
 ![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk146a.png)
 
-简体中文字体令牌示意
+简体中文字体token示意
 
 ![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk146b.png)
 
@@ -227,7 +227,7 @@ Neutral Special和Primary的默认Hue值(色相)类似，为近似色，也建�
 #### 1.5.2.1.阴影型号（Size）
 阴影分为小（small）、中(medium)、大(Large)三种型号，应用于不同尺寸的组件中，总体原则为：越小的组件越推荐使用小的阴影、反之越大的组件推荐使用大的阴影；圆角越小的组件越推荐使用小的阴影、反之亦然。
 
-#### 1.5.2.2.阴影令牌
+#### 1.5.2.2.阴影token
 为保证阴影效果自然柔和，每个阴影都有两层不同偏移、不同模糊度、不同透明度的值。同时针对亮色/暗色模式有两套不同颜色的阴影。
 
 ●Shadow on  Light：
