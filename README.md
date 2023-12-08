@@ -235,24 +235,29 @@ Neutral Special和Primary的默认Hue值(色相)类似，为近似色，也建�
 #### 1.5.2.2.阴影token
 为保证阴影效果自然柔和，每个阴影都有两层不同偏移、不同模糊度、不同透明度的值。同时针对亮色/暗色模式有两套不同颜色的阴影。
 
+**Shadow on  Light:**
 ```
-●Shadow on  Light：
 /* shadow/onlight/large */
 box-shadow: x0 y24 blur36 color(Neutral3) Alpha0.15, x8 y0 blur24 color(Neutral1) Alpha0.1
+
 /* shadow/onlight/medium */
 box-shadow: x0 y4 blur4 color(Neutral3) Alpha0.15, x2 y0 blur8  color(Neutral1) Alpha0.1
+
 /* shadow/onlight/small */
 box-shadow: x0 y1 blur3 color(Neutral3) Alpha0.15, x1 y0 blur2  color(Neutral1) Alpha0.1
 ```
 
 ![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk1522a.png)
 
+**Shadow on  Dark:**
+
 ```
-●Shadow on  Dark：
 /* shadow/onlight/large */
 box-shadow: x0 y24 blur36 color(Neutral4) Alpha0.15, x8 y0 blur24 color(Neutral1) Alpha0.1
+
 /* shadow/onlight/medium */
 box-shadow: x0 y4 blur4 color(Neutral4) Alpha0.15, x2 y0 blur8  color(Neutral1) Alpha0.1
+
 /* shadow/onlight/small */
 box-shadow: x0 y1 blur3 color(Neutral4) Alpha0.15, x1 y0 blur2  color(Neutral1) Alpha0.1
 ```
