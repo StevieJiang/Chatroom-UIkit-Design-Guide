@@ -155,7 +155,7 @@ Neutral Special和Primary的默认Hue值(色相)类似，为近似色，也建�
 ### 1.3.1.图标模板（Template）
 图标参照Material Icon Font的模板 ，以24为基本栅格，须在安全区域(20x20的中心区域)内绘制，基本描边控制为1.5栅格。
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk113.png)
+![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk131.png)
 
 ### 1.3.2图标命名（Name）
 为防止将图标语意固定，icon命名需要尽力避免定义操作行为，而是以“看见什么就是什么“进行命名，方便相同图标在不同操作行为下的复用。
