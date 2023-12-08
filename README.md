@@ -54,7 +54,7 @@ Hue值(0-360)与色相的对应关系大致如以下图示所例：
 ##### 1.1.2.4.举个例子吧：
 如指定主题色Primary色相（Hue）为203，成功色Secondary色相（Hue）为155，警示色Error色相（Hue）为350，则会生成如下39种主题色可供用户在指定UI件块（View）颜色时使用：
 
-<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk1124.png" width="600" >
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk1124.png" width="800" >
 
 其中，主题色Primary的L5为亮色模式下的基色（Key Color），L6为暗色模式下的基色（Key Color）。所有的颜色体系都是依照基色生成。
 
