@@ -90,7 +90,7 @@ End Color用户可配置色相（Hue），亮度以0(20%) / 1(30%) / 2(40%) / 3(
 
 如使用渐变主题色，那么它将替代掉所有应用于背景色的Primary色 
 
-<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk11342.png" width="800" >
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk11342.png" width="600" >
 
 但一般不替代UI件块的前景色，因为没有什么意义，且有干扰文字阅读的可能性
 
