@@ -643,5 +643,5 @@ Message Bubble(Large Radius)
 # 4.UI设计资源
 
 设计资源详见figma链接:
-![Chatroom UIkit design resources](https://www.figma.com/file/OX2dUdilAKHahAh9VwX8aI/Streamuikit?type=design&node-id=275%3A48300&mode=design&t=mHiwLzKDmtEfvltR-1)
+![Chatroom UIkit design resources](https://www.figma.com/community/file/1322495388317476706/chatroom-uikit)
 
