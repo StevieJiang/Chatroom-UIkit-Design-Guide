@@ -392,7 +392,7 @@ Message Bubble(Large Radius)
 头像可配置徽章（Badge）以体现用户的在离线等状态，徽章位置分两种：右下和右上
 本案不涉及
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk245.png)
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk245.png" width="440" >
 
 
 ## 2.5.操作表单(Action Sheet)
@@ -400,7 +400,7 @@ Message Bubble(Large Radius)
 操作表单是以模态形式展示的多操作项表单，单个操作项分为Enabled、Pressed、Disabled、Destructived四种状态，以及Cancel特殊类型。同时可配置是否显示icon、是否有分割线(stroke)
 此组件仅限移动端
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk25.png)
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk25.png" width="390" >
 
 
 ## 2.6.浮层菜单(PopMenu)
