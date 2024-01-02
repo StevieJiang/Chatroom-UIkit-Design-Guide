@@ -462,7 +462,7 @@ Message Bubble(Large Radius)
 样式可配项有：背景色（Alpha0-100）、前景色（Neutral0-100）、圆角、字体的大小（Body Large、Body Medium、Body small）、消息气泡的Pedding
 可增减的显示内容项有：Label、Badge、Avatar，Title和Description为必要内容，显示内容的顺序是不可修改的。
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk311.png)
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk311.png" width="390" >
 
 ### 3.1.2.语音消息（Audio Message）
 本期不涉及
@@ -474,13 +474,13 @@ Message Bubble(Large Radius)
 为国内直播场景常见的样式，可设为Large、Small两个尺寸，
 默认驻留时间为3秒（可配置），事件并发时排队展示，可同时最多展示2条礼物消息
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk3131.png)
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk3131.png" width="390" >
 
 消息气泡的样式可配项有：背景色、前景色、头像圆角（需要注意的是，消息背景圆角和头像圆角配套以达成风格的一致）、背景模糊（防止在语聊房场景下组件重叠带来的阅读困难）。
 
 #### 3.1.3.2.常驻礼物消息样式
 
-![image text](https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk3132.png)
+<img src="https://github.com/StevieJiang/Chatroom-UIkit-Design-Guide/blob/main/Doc%20Image/cruk3132.png" width="390" >
 
 样式可配项和信息可配项与文本消息相同，只是增加了消息末尾的贴纸展示。
 
