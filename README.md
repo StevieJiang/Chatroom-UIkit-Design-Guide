@@ -34,7 +34,7 @@ Design Guide of Live Stream Chat UIkit(Beta)
 
 ##### 1.1.1.3.模型概览：
 
-<img src="https://raw.githubusercontent.com/StevieJiang/Chatroom-UIkit-Design-Guide/main/Doc%20Image/cruk1113.png" width="600" >
+<img src="https://s2.loli.net/2024/01/02/1XfpZuKaNBD26GW.png" width="600" >
 
 #### 1.1.2.三种主题色（Theme Color）的色彩规范：
 
